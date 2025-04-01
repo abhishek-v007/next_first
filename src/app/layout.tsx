@@ -1,7 +1,5 @@
 import { ReactNode } from 'react';
 
-// /C:/Users/Abhishek/OneDrive/Desktop/nextjs/my-app/src/app/layout.tsx
-
 
 export const metadata = {
     title: 'My App',
